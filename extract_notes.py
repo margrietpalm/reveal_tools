@@ -8,7 +8,6 @@ import os
 import glob
 import shutil
 import future
-import numpy as np
 from itertools import groupby
 from operator import itemgetter
 
